@@ -1,0 +1,2 @@
+# exercises-rust
+Rust Exercises 
